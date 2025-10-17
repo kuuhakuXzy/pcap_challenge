@@ -1,0 +1,168 @@
+[
+  {
+    "filename": "isup.cap",
+    "path": "pcaps/isup.cap",
+    "size_bytes": 704,
+    "protocols": [
+      "eth",
+      "ethertype",
+      "ip",
+      "m3ua",
+      "sctp"
+    ]
+  },
+  {
+    "filename": "japan_tcap_over_m2pa.pcap",
+    "path": "pcaps/japan_tcap_over_m2pa.pcap",
+    "size_bytes": 752,
+    "protocols": [
+      "eth",
+      "ethertype",
+      "ip",
+      "m2pa",
+      "mtp3",
+      "sccp",
+      "sctp"
+    ]
+  },
+  {
+    "filename": "isup_load_generator.pcap",
+    "path": "pcaps/isup_load_generator.pcap",
+    "size_bytes": 284840,
+    "protocols": [
+      "isup",
+      "mtp2",
+      "mtp3"
+    ]
+  },
+  {
+    "filename": "ansi_map_ota.pcap",
+    "path": "pcaps/ansi_map_ota.pcap",
+    "size_bytes": 4232,
+    "protocols": [
+      "ansi_683",
+      "ansi_map",
+      "ansi_tcap",
+      "eth",
+      "ethertype",
+      "ip",
+      "m2ua",
+      "mtp3",
+      "sccp",
+      "sctp",
+      "tcap"
+    ]
+  },
+  {
+    "filename": "ansi_tcap_over_itu_sccp_over_mtp3_over_mtp2.pcap",
+    "path": "pcaps/ansi_tcap_over_itu_sccp_over_mtp3_over_mtp2.pcap",
+    "size_bytes": 188,
+    "protocols": [
+      "ansi_map",
+      "ansi_tcap",
+      "mtp2",
+      "mtp3",
+      "sccp",
+      "tcap"
+    ]
+  },
+  {
+    "filename": "ansi_map_win.pcap",
+    "path": "pcaps/ansi_map_win.pcap",
+    "size_bytes": 1890,
+    "protocols": [
+      "eth",
+      "ethertype",
+      "ip",
+      "m2ua",
+      "mtp3",
+      "sccp",
+      "sctp"
+    ]
+  },
+  {
+    "filename": "camel.pcap",
+    "path": "pcaps/camel.pcap",
+    "size_bytes": 1018,
+    "protocols": [
+      "data",
+      "eth",
+      "ethertype",
+      "ip",
+      "m2ua",
+      "mtp3",
+      "sccp",
+      "sctp"
+    ]
+  },
+  {
+    "filename": "packlog-example.cap",
+    "path": "pcaps/packlog-example.cap",
+    "size_bytes": 946,
+    "protocols": [
+      "data",
+      "eth",
+      "ethertype",
+      "ip",
+      "udp"
+    ]
+  },
+  {
+    "filename": "camel2.pcap",
+    "path": "pcaps/camel2.pcap",
+    "size_bytes": 924,
+    "protocols": [
+      "camel",
+      "eth",
+      "ethertype",
+      "ip",
+      "m2ua",
+      "mtp3",
+      "sccp",
+      "sctp",
+      "tcap"
+    ]
+  },
+  {
+    "filename": "bicc.pcap",
+    "path": "pcaps/bicc.pcap",
+    "size_bytes": 382,
+    "protocols": [
+      "bicc",
+      "eth",
+      "ethertype",
+      "ip",
+      "m3ua",
+      "sctp",
+      "sdp"
+    ]
+  },
+  {
+    "filename": "gsm_map_with_ussd_string.pcap",
+    "path": "pcaps/gsm_map_with_ussd_string.pcap",
+    "size_bytes": 258,
+    "protocols": [
+      "eth",
+      "ethertype",
+      "gsm_map",
+      "ip",
+      "m2ua",
+      "mtp3",
+      "sccp",
+      "sctp",
+      "tcap"
+    ]
+  },
+  {
+    "filename": "isup_download.cap",
+    "path": "pcaps/isup_download.cap",
+    "size_bytes": 704,
+    "protocols": [
+      "eth",
+      "ethertype",
+      "ip",
+      "m3ua",
+      "sctp"
+    ]
+  }
+]

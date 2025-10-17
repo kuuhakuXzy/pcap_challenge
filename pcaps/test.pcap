@@ -1,0 +1,16 @@
+apt update && apt upgrade -y
+apt install -y tshark wireshark python3 python3-venv python3-pip docker.io
+{
+mkdir -p ~/pcap_project/pcaps
+cd ~/pcap_project
+}
+
+{
+python3 -m venv venv
+source venv/bin/activate
+pip install flask sqlalchemy pydantic
+}
+{ result beautifier
+sudo apt-get update
+sudo apt-get install jq -y
+}

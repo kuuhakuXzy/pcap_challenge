@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  pcap-service:
+    build: .
+    image: pcap-catalog-service:latest
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./pcaps:/app/pcaps
+    environment:
+      - PCAP_DIRECTORY=/app/pcaps
+      - LOG_LEVEL=INFO
