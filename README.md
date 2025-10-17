@@ -6,7 +6,7 @@ This project was created as a technical challenge.
 
 ## Features
 
--   Scans a directory for `.pcap`, `.pcapng`, and `.cap` files.
+-   Scans a directory for `.pcap` and `.cap` files.
 -   Analyzes files using `tshark` to extract all protocols.
 -   Creates a JSON index for fast searching.
 -   Provides a REST API to search for pcaps by protocol and download them.
